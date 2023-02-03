@@ -13,10 +13,11 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 
 For this dataset, there were 8523 rows and 12 columns.
 
-### Explanatory Data Analysis
-    - To visualize the data for explantory purposes, two barplots were chosen to look at Item MRP Item Outlet Sales.
-    - The bargraphs were chosen to show how the categories compare to each other. 
-    
+## Explanatory Data Analysis
+  -  To visualize the data for explantory purposes, two barplots were chosen to look at Item MRP Item Outlet Sales.
+  -  The bargraphs were chosen to show how the categories compare to each other. 
+     
+        
 ## Explanatory Visuals
 
 ![Unknown](https://user-images.githubusercontent.com/116525770/216511628-534a0ada-6c6d-42ae-a14b-76e622b9d113.png)
