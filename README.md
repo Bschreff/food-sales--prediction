@@ -22,6 +22,9 @@ For this dataset, there were 8523 rows and 12 columns.
 
 ![Unknown](https://user-images.githubusercontent.com/116525770/216511628-534a0ada-6c6d-42ae-a14b-76e622b9d113.png)
 
+![Unknown](https://user-images.githubusercontent.com/116525770/216987057-059fdf54-524a-4d6f-b76c-40b01aa48419.png)
+
+
   
 ## Model Evaluated & Results
 Tuned Bagged Tree Model Test Scores
