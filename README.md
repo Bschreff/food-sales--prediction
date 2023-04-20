@@ -24,7 +24,11 @@ For this dataset, there were 8523 rows and 12 columns.
 
 ![Unknown](https://user-images.githubusercontent.com/116525770/216987057-059fdf54-524a-4d6f-b76c-40b01aa48419.png)
 
+## Linear Regression Coefficients
+<img src="Top_3.png" alt="Alternative text" />
 
+## Random Forest Regression Coefficients
+<img src="Top_5.png" alt="Alternative text" />
   
 ## Model Evaluated & Results
 Tuned Bagged Tree Model Test Scores
