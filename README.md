@@ -26,10 +26,13 @@ For this dataset, there were 8523 rows and 12 columns.
 
 ## Linear Regression Coefficients
 <img src="Top_3.png" alt="Alternative text" />
-
+The top two importances are the same as in SHAP but the third is different outlet type tier 3 is the third in SHAP where as in impotances outlet size medium is third.
 ## Random Forest Regression Coefficients
 <img src="Top_5.png" alt="Alternative text" />
-  
+The Top five are very different in SHAP.
+## Shap Summary
+<img src="images/summary_plot_1.png" width=400px>
+The Item MRP influences the prediction of outlet sales being higher, outlet type grocery shows an influence on item outlet sales to be lower, and supermarket type 3 shows influences the prediction to be higher.
 ## Model Evaluated & Results
 Tuned Bagged Tree Model Test Scores
    - MAE: 1425819.3488 
