@@ -32,11 +32,13 @@ The top two importances are the same as in SHAP but the third is different outle
 <img src="Top_5.png" alt="Alternative text" />
 The Top five are very different in SHAP.
 
-## Lime Explainer Random Forest
-<img src="temp_html_2" alt="Alternative text" />
+## Lime Explainer Mrp
+![Image 4-20-23 at 8 44 PM](https://user-images.githubusercontent.com/116525770/233515141-1d6e8536-5775-4585-b9f0-3b1634575649.jpg)
 
-## Lime Explainer Linear Regression
-<img src="temp_html" alt="Alternative text" />
+
+
+## Lime Explainer Weight
+<img width="887" alt="Screenshot 2023-04-20 at 8 29 45 PM" src="https://user-images.githubusercontent.com/116525770/233513988-616deccf-8f15-4ade-9e63-dcd151515b8f.png">
 
 ## Shap Summary
 <img src="images/summary_plot_1.png" width=400px>
