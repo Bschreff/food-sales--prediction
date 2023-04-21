@@ -28,11 +28,15 @@ For this dataset, there were 8523 rows and 12 columns.
 <img src="Top_3.png" alt="Alternative text" />
 The top two importances are the same as in SHAP but the third is different outlet type tier 3 is the third in SHAP where as in impotances outlet size medium is third.
 
-
 ## Random Forest Regression Coefficients
 <img src="Top_5.png" alt="Alternative text" />
 The Top five are very different in SHAP.
 
+## Lime Explainer Random Forest
+<img src="temp_html_2" alt="Alternative text" />
+
+## Lime Explainer Linear Regression
+<img src="temp_html" alt="Alternative text" />
 
 ## Shap Summary
 <img src="images/summary_plot_1.png" width=400px>
