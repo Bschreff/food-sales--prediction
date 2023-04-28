@@ -35,11 +35,12 @@ The Top five are very different in SHAP.
 ## Lime Explainer Mrp
 ![Image 4-20-23 at 8 44 PM](https://user-images.githubusercontent.com/116525770/233515141-1d6e8536-5775-4585-b9f0-3b1634575649.jpg)
 
-
+The most impactful variable is Outletype Grocery store being a positive impact as well as item MRP >.78. The other variables appear in blue on the left have a negative impact on item sales.
 
 ## Lime Explainer Weight
 <img width="887" alt="Screenshot 2023-04-20 at 8 29 45 PM" src="https://user-images.githubusercontent.com/116525770/233513988-616deccf-8f15-4ade-9e63-dcd151515b8f.png">
 
+Items that appear on the left in blue have a negative impact on item sales and variable on right have a positive impact on item outlet sales.
 ## Shap Summary
 <img src="images/summary_plot_1.png" width=400px>
 The Item MRP influences the prediction of outlet sales being higher, outlet type grocery shows an influence on item outlet sales to be lower, and supermarket type 3 shows influences the prediction to be higher.
